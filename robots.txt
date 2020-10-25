@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://bluzeey.github.io/Dataviz/sitemap.xml
